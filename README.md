@@ -3,3 +3,5 @@
 clonning into local repo
 
 editing in remote 
+
+changing in local
